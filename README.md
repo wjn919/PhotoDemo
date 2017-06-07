@@ -16,4 +16,4 @@
    - 我的CSDN博客：[wjn919](http://blog.csdn.net/wjn_yes)
 
 ### APK下载
-   - [apk 下载](https://github.com/wjn919/PhotoDemo/raw/master/app/screenshots/PhotoDemo.apk)
+   - [apk 下载](https://github.com/wjn919/PhotoDemo/blob/master/app/screenshots/photoDemo.apk)
