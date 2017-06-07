@@ -1,5 +1,4 @@
 ![image](https://github.com/wjn919/PhotoDemo/blob/master/app/screenshots/list_demo.png)
-![image](https://github.com/wjn919/PhotoDemo/blob/master/app/screenshots/result_demo.png)
 ![image](https://github.com/wjn919/PhotoDemo/blob/master/app/screenshots/directory_demo.png)
 
 ### 介绍
