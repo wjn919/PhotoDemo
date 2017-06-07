@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:orientation="horizontal"
+    android:padding="@dimen/default_padding"
+    android:id="@+id/ll_header"
+    >
+    <LinearLayout
+        android:id="@+id/tv_picker_return"
+        android:layout_width="50dp"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        >
+    <ImageView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:src="@drawable/__picker_return"
+
+        />
+    </LinearLayout>
+    <TextView
+        android:id="@+id/tv_picker_catalog_name"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="@string/__picker_editor"
+        android:gravity="center"
+        />
+
+    <TextView
+        android:id="@+id/tv_picker_continue"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="@string/__picker_continue"
+        android:gravity="center"
+
+        />
+
+</LinearLayout>
